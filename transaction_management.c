@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "user_management.c" // Include user_management definitions
+#include "transaction_management.h"
 
 void check_balance(struct User *current_user) {
 printf("Your balance is: $%.2f\n", current_user->balance);
