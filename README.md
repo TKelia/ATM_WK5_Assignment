@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for ATM system repository:
-
-```markdown
 # ATM_WK5_Assignment
 
 A simple command-line ATM system that allows users to perform basic banking operations.
